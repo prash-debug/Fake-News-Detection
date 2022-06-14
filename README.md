@@ -11,5 +11,4 @@ For the implementation of this project, I have used ISOT Dataset available on th
 https://www.uvic.ca/ecs/ece/isot/datasets/fake-news/index.php
 
 #### Comparison Chart
-![My Image](comparisons.PNG)
 <img src="comparisons.PNG" alt="image" style="width:500px;"/>
