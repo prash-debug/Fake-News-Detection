@@ -9,3 +9,6 @@ For the implementation of this project, I have used ISOT Dataset available on th
 
 #### Dataset Link 
 https://www.uvic.ca/ecs/ece/isot/datasets/fake-news/index.php
+
+#### Comparison Chart
+![My Image](comparisons.PNG)
