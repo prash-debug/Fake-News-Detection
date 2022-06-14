@@ -12,3 +12,4 @@ https://www.uvic.ca/ecs/ece/isot/datasets/fake-news/index.php
 
 #### Comparison Chart
 ![My Image](comparisons.PNG)
+<img src="comparisons.PNG" alt="image" style="width:200px;"/>
